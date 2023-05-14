@@ -1,0 +1,19 @@
+@import url("./css_component/inicio.css");
+@import url("./css_component/header.css");
+@import url("./css_component/abaut.css");
+@import url("./css_component/education.css");
+@import url("./css_component/skill.css");
+@import url("./css_component/portafolio.css");
+@import url("./css_component/footer.css");
+
+/* variables */
+:root {
+    --color-primary: #21618C;
+    --color-secondary: #437095;
+    --color-tertiary: #736372;
+    --color-quaternary: #A26C84;
+    --color-quinary: #17A589;
+    --color-white: #F7F9F9;
+    --color-black: #212F3D;
+  } 
+/* background-color: var(--color-primary); */
