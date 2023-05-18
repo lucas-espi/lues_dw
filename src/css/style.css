@@ -5,6 +5,9 @@
 @import url("./css_component/skill.css");
 @import url("./css_component/portafolio.css");
 @import url("./css_component/footer.css");
+@import url("./css_component/contact.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&family=Roboto+Mono:wght@300;400;500;600;700&display=swap');
 
 /* variables */
 :root {
@@ -15,5 +18,14 @@
     --color-quinary: #17A589;
     --color-white: #F7F9F9;
     --color-black: #212F3D;
+    --font-primary: 'Roboto Mono', monospace;
+    --font-secondary: 'PT Mono', monospace;
   } 
 /* background-color: var(--color-primary); */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
