@@ -35,6 +35,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    margin-right: 5rem;
 }
 .box-header .box-menu .menu-list .menu-item{
     text-decoration: none;
@@ -52,17 +53,17 @@
 }
 
 .idioma{
-    width: 5rem;
+    width: 2rem;
     height: 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
     position: fixed;
-    right: 3rem;
-    top: 6rem;
+    right: 1.2rem;
+    top: 2rem;
 }
 #idioma {
-    width: 5rem;
+    width: 3rem;
     height: 1.5rem;
     font-size: .9rem;
     color: #333;
